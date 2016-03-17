@@ -1,0 +1,26 @@
+{
+  "name": "local-cache",
+  "version": "0.1.0",
+  "description": "Local JSON cache",
+  "main": "./lib/Cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Komrod/local-cache.git"
+  },
+  "keywords": [
+    "cache",
+    "node cache",
+    "file cache",
+    "json",
+    "json cache"
+  ],
+  "author": "Komrod <komrod@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Komrod/local-cache/issues"
+  },
+  "homepage": "https://github.com/Komrod/local-cache#readme"
+}
